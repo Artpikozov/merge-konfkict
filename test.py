@@ -1,6 +1,8 @@
-print("meow")
+print("eow")
 print("meow3")
-print("meow")
+print("mew")
 print("meow1")
 print("meow")
-
+print("mew")
+print("eow1")
+print("mow")
